@@ -18,5 +18,5 @@ If you use the code, dataset or model checkpoints, please cite the following wor
       eprint={2602.12129},
       archivePrefix={arXiv},
       primaryClass={cs.IR},
-      url={[https://arxiv.org/abs/2602.12129](https://arxiv.org/abs/2602.12129)},
+      url={https://arxiv.org/abs/2602.12129}, 
 }
