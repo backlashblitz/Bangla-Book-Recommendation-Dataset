@@ -4,7 +4,7 @@ This repository contains the dataset and code for the paper [Towards Personalize
 
 ---
 
-## 🚀 Baseline Models (Google Colab)
+##  Baseline Models (Google Colab)
 
 Click any model name below to download the Colab notebook and run it instantly — dataset is downloaded automatically.
 
