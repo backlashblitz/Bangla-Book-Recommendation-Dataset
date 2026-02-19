@@ -4,23 +4,24 @@ This repository contains the dataset and code for the paper [Towards Personalize
 
 ---
 
-##  Baseline Models (Google Colab)
+## 🚀 Baseline Models (Google Colab)
 
-Click any model name below to download the Colab notebook and run it instantly — dataset is downloaded automatically.
+Click any model below to open and run instantly in Google Colab  
+*(Dataset downloads automatically)*
 
-| Model | Open in Colab |
-|---|---|
-| Notebook |
-|----------|
-| [Global Popularity](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/global_popularity_colab.ipynb) |
+### 📊 [Global Popularity](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/global_popularity_colab.ipynb)
 
-| Category-Aware Popularity | [📓 Download Notebook](colabnotebooks/category_aware_popularity_colab.ipynb) |
-| User-Based Collaborative Filtering | [📓 Download Notebook](colabnotebooks/user_based_cf_colab.ipynb) |
-| Item-Based Collaborative Filtering | [📓 Download Notebook](colabnotebooks/item_based_cf_colab.ipynb) |
-| Implicit Matrix Factorization (ALS) | [📓 Download Notebook](colabnotebooks/implicit_mf_als_colab.ipynb) |
-| Explicit Matrix Factorization (SVD) | [📓 Download Notebook](colabnotebooks/explicit_mf_svd_colab.ipynb) |
+### 📚 [Category-Aware Popularity](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/category_aware_popularity_colab.ipynb)
 
-> **Note:** The SVD notebook requires a one-time kernel restart after the first cell runs (due to a NumPy version fix). All other notebooks run with a single **Runtime → Run all**.
+### 👥 [User-Based Collaborative Filtering](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/user_based_cf_colab.ipynb)
+
+### 📦 [Item-Based Collaborative Filtering](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/item_based_cf_colab.ipynb)
+
+### 🔢 [Implicit Matrix Factorization (ALS)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/implicit_mf_als_colab.ipynb)
+
+### 📐 [Explicit Matrix Factorization (SVD)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/explicit_mf_svd_colab.ipynb)
+
+
 
 ---
 
