@@ -10,7 +10,10 @@ Click any model name below to download the Colab notebook and run it instantly �
 
 | Model | Open in Colab |
 |---|---|
-| Global Popularity | [📓 Download Notebook](colabnotebooks/global_popularity_colab.ipynb) |
+| Notebook |
+|----------|
+| [Global Popularity](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/global_popularity_colab.ipynb) |
+
 | Category-Aware Popularity | [📓 Download Notebook](colabnotebooks/category_aware_popularity_colab.ipynb) |
 | User-Based Collaborative Filtering | [📓 Download Notebook](colabnotebooks/user_based_cf_colab.ipynb) |
 | Item-Based Collaborative Filtering | [📓 Download Notebook](colabnotebooks/item_based_cf_colab.ipynb) |
