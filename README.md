@@ -4,24 +4,21 @@ This repository contains the dataset and code for the paper [Towards Personalize
 
 ---
 
-## 🚀 Baseline Models (Google Colab)
+##  Models (Google Colab)
 
-Click any model below to open and run instantly in Google Colab  
-*(Dataset downloads automatically)*
+> Click any badge below to **open and run instantly** in Google Colab.  
+> *(Dataset downloads automatically — no setup needed!)*
 
-### 📊 [Global Popularity](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/global_popularity_colab.ipynb)
+<br/>
 
-### 📚 [Category-Aware Popularity](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/category_aware_popularity_colab.ipynb)
-
-### 👥 [User-Based Collaborative Filtering](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/user_based_cf_colab.ipynb)
-
-### 📦 [Item-Based Collaborative Filtering](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/item_based_cf_colab.ipynb)
-
-### 🔢 [Implicit Matrix Factorization (ALS)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/implicit_mf_als_colab.ipynb)
-
-### 📐 [Explicit Matrix Factorization (SVD)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/explicit_mf_svd_colab.ipynb)
-
-
+| Model | Open in Colab |
+|-------|---------------|
+| 📊 **Global Popularity** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/global_popularity_colab.ipynb) |
+| 📚 **Category-Aware Popularity** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/category_aware_popularity_colab.ipynb) |
+| 👥 **User-Based Collaborative Filtering** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/user_based_cf_colab.ipynb) |
+| 📦 **Item-Based Collaborative Filtering** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/item_based_cf_colab.ipynb) |
+| 🔢 **Implicit Matrix Factorization (ALS)** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/implicit_mf_als_colab.ipynb) |
+| 📐 **Explicit Matrix Factorization (SVD)** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/explicit_mf_svd_colab.ipynb) |
 
 ---
 
