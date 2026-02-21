@@ -22,6 +22,14 @@ This repository contains the dataset and code for the paper [Towards Personalize
 
 ---
 
+## Run Locally (Anaconda / Jupyter Notebook)
+
+> Prefer running on your own machine? The setup guide walks you through everything — conda environment, library installation, and model-specific dependencies (including the tricky DGL install for HGNN).
+
+[![Local Setup Guide](https://img.shields.io/badge/📓%20Local%20Setup%20Guide-View%20Notebook-4C8CBF?style=for-the-badge&logo=jupyter)](https://github.com/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/Setup_Guide_For_Local_Environment.ipynb)
+
+---
+
 ## Citation
 If you use the code, dataset or model checkpoints, please cite the following work:
 ```bibtex
