@@ -11,12 +11,14 @@ This repository contains the dataset and code for the paper [Towards Personalize
 
 <br/>
 
+
 | Model | Open in Colab | Model | Open in Colab |
 |-------|:-------------:|-------|:-------------:|
 | **Global Popularity** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/global_popularity_colab.ipynb) | **Category-Aware Popularity** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/category_aware_popularity_colab.ipynb) |
 | **User-Based Collaborative Filtering** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/user_based_cf_colab.ipynb) | **Item-Based Collaborative Filtering** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/item_based_cf_colab.ipynb) |
 | **Implicit Matrix Factorization (ALS)** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/implicit_mf_als_colab.ipynb) | **Explicit Matrix Factorization (SVD)** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/explicit_mf_svd_colab.ipynb) |
 | **Two Tower Text Embedding** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/Two_Tower_Text_Embedding_colab.ipynb) | **LightGCN** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/LightGCN_colab.ipynb) |
+| **Pure Content Based** | [![Colab](https://img.shields.io/badge/Open-Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/backlashblitz/Bangla-Book-Recommendation-Dataset/blob/main/colabnotebooks/Pure_Content_Based_Model_Colab.ipynb) | | |
 
 ---
 
